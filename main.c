@@ -25,7 +25,6 @@ int main() {
       ptr1++;
       ptr2++;
    }
-   //printf("%s\n%s\n%c",str1, str2, str1);
    return 0;
 }
 
